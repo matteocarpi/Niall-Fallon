@@ -16,4 +16,4 @@ All workshops can range from 1-4 days, and the content is flexible to requests. 
 
 Workshops are also offered internationally. Please email us for more information at:
 
-[NIALLFALLON1994@GMAIL.COM]()
+niallfallontheatre@gmail.com
