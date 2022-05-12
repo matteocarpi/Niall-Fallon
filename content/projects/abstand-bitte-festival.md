@@ -10,4 +10,4 @@ The Abstand Bitte Performance Collective is a group of international, multidisci
 
 You'll find footage from the festival on our performance page and you can listen to the [Resonance FM show](https://www.mixcloud.com/Resonance/clear-spot-25-may-2021-performing-arts-festival/) we hosted for Bears at a Picnic which gives an overview of the festival, an insight into the history of [Spinner und Weber](https://spinnerundweber.de/) plus interviews with [Gob Squad's Sarah Thom](https://soundcloud.com/user-445319206/interview-with-sarah-thom-of-gob-squad) and [Forced Entertainment's Robin Arthur](https://soundcloud.com/user-445319206/interview-with-robin-arthur-of-forced-entertainment).
 
-**Further information can be found at:** [https://www.artwat.com]() 
+**Further information can be found at:** [https://www.artwat.com](https://www.artwat.com "https://www.artwat.com") 
