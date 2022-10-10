@@ -3,13 +3,13 @@ template: project
 date: 
 title: 'Berlin Opera Academy '
 gallery:
+- "/content/images/img_0991.jpeg"
+- "/content/images/img_1156.jpeg"
 - "/content/images/screenshot-2021-12-08-at-21-23-40.png"
 - "/content/images/screenshot-2022-10-10-at-13-09-04.jpeg"
-- "/content/images/img_1156.jpeg"
 - "/content/images/0b708e85-e8b6-469a-83de-881dc7f033d1.jpg"
 - "/content/images/img_1001.jpeg"
 - "/content/images/img_0994.jpeg"
-- "/content/images/img_0991.jpeg"
 - "/content/images/screenshot-2021-12-08-at-21-24-46.png"
 - "/content/images/img_1005.jpeg"
 - "/content/images/img_1157.jpeg"
