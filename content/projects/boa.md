@@ -3,14 +3,18 @@ template: project
 date: 
 title: 'Berlin Opera Academy '
 gallery:
-- "/content/images/screenshot-2022-10-10-at-13-09-04.jpeg"
-- "/content/images/0b708e85-e8b6-469a-83de-881dc7f033d1.jpg"
-- "/content/images/img_1157.jpeg"
-- "/content/images/img_1156.jpeg"
 - "/content/images/screenshot-2021-12-08-at-21-23-40.png"
-- "/content/images/df82105a-0e74-4021-91ca-0b6c55d12938.jpg"
-- "/content/images/screenshot-2021-12-08-at-12-52-42.png"
+- "/content/images/0b708e85-e8b6-469a-83de-881dc7f033d1.jpg"
+- "/content/images/img_1005.jpeg"
+- "/content/images/img_1001.jpeg"
+- "/content/images/img_0994.jpeg"
+- "/content/images/img_0991.jpeg"
 - "/content/images/screenshot-2021-12-08-at-21-24-46.png"
+- "/content/images/img_1156.jpeg"
+- "/content/images/screenshot-2022-10-10-at-13-09-04.jpeg"
+- "/content/images/screenshot-2021-12-08-at-12-52-42.png"
+- "/content/images/img_1157.jpeg"
+- "/content/images/df82105a-0e74-4021-91ca-0b6c55d12938.jpg"
 
 ---
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/661809482?h=da392213b1&autoplay=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
