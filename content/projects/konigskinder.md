@@ -14,6 +14,8 @@ gallery:
 ---
 Throughout the Autumn of 2022, I have been performing as a dancer in the production of Königskinder at the Dutch National Opera. 
 
+Photos by Monika Rittershaus 
+
 **Musical direction** Marc Albrecht  
 **Stage direction and choreography** Christof Loy  
 **Set design** Johannes Leiacker  
