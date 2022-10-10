@@ -2,7 +2,8 @@
 template: project
 date: 
 title: Der Schatzgräber
-gallery: []
+gallery:
+- "/content/images/screenshot-2022-10-10-at-15-19-43.png"
 
 ---
 Director: Christof Loy
