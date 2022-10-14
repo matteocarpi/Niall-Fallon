@@ -21,15 +21,15 @@ about: "Niall Fallon is a performer, musician, and director of physical performa
   marketing team for the original production of Fleabag, and in 2019 was the featured
   artist in residence at Destelheide Belgium and Nau Coclea Spain. In 2021 he was
   the choreographer and movement director for the Berlin Opera Academy, where he now
-  works as the Director the Berlin Opera Academy Opera Studio. In 2022 he is working
+  works as the Director of the Berlin Opera Academy Opera Studio. In 2022 he is working
   as the Assistant Director for the World Opera Lab and as an actor for the Deutsche
-  Oper, and as a dancer for the Dutch National Opera. \n\nHe also provides speech
-  and voice coaching for professionals in film, theatre, digital media, advocacy,
-  and diplomacy. His creative practice explores learning frameworks and tools for
-  social development, education, business and public speaking for charities. \n\nHe
-  is influenced by the work of Punchdrunk, Peeping Tom, Gecko, Thom Monckton, La Re-Sentida,
-  and Derevo inspiring him to change how audiences creatively participate in performance.
-  \n\nHe is based both in Berlin and England. "
+  Oper and Teatro Real Madrid, and as a dancer for the Dutch National Opera. \n\nHe
+  also provides speech and voice coaching for professionals in film, theatre, digital
+  media, advocacy, and diplomacy. His creative practice explores learning frameworks
+  and tools for social development, education, business and public speaking for charities.
+  \n\nHe is influenced by the work of Punchdrunk, Peeping Tom, Gecko, Thom Monckton,
+  La Re-Sentida, and Derevo inspiring him to change how audiences creatively participate
+  in performance. \n\nHe is based both in Berlin and England. "
 gallery: []
 email: niallfallontheatre@gmail.com
 facebook: https://www.facebook.com/niall.machin
