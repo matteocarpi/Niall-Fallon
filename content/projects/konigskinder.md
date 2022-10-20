@@ -9,6 +9,9 @@ gallery:
 - "/content/images/b069c66f-df48-4e77-9bb7-ca6e4fa1e255.jpg"
 - "/content/images/koenigskinder_127.jpeg"
 - "/content/images/img_1558.jpeg"
+- "/content/images/4e05bd0d-0274-4a14-8196-e6c5e583fea3.jpg"
+- "/content/images/fullsizerender.jpeg"
+- "/content/images/bbf669d1-d658-4a8b-ac1a-658cd8a430d1.jpg"
 
 ---
 Throughout the Autumn of 2022, I have been performing as a dancer in the production of Königskinder at the Dutch National Opera. 
