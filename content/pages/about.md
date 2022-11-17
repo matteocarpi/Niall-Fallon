@@ -1,6 +1,6 @@
 ---
 main_image: "/content/images/A43A63CB-83C1-4F48-8A99-BF587DEC3724%202_edited_edited.jpg"
-headshot: "/content/images/p1077403.jpeg"
+headshot: "/content/images/img_1506-20-52-53.jpeg"
 about: "Niall Fallon is a performer, musician, and director of physical performance.
   His work focuses on merging physical theatre with multi-disciplinary practices,
   using visual poetry as a means to question society, stretching metaphors and our
