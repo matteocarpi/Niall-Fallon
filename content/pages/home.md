@@ -1,6 +1,6 @@
 ---
 main_image: "/content/images/A43A63CB-83C1-4F48-8A99-BF587DEC3724%202_edited_edited.jpg"
-headshot: "/content/images/p1077322.jpeg"
+headshot: "/content/images/img_1504-20-52-53.jpeg"
 about: "Niall Fallon is a performer and director of physical performance.\nHis work
   focuses on merging physical theatre with multi-disciplinary practices.\nCombining
   physical collage, site-specific work, opera, clown, and film with theatre anthropology.\nHe
