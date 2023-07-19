@@ -31,6 +31,6 @@ _“F**king mesmerizing”_
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="[https://player.vimeo.com/video/665699276?h=40f56ac2f0&autoplay=1](https://player.vimeo.com/video/665699276?h=40f56ac2f0&autoplay=1 "https://player.vimeo.com/video/665699276?h=40f56ac2f0&autoplay=1")" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="[https://player.vimeo.com/api/player.js](https://player.vimeo.com/api/player.js "https://player.vimeo.com/api/player.js")"></script>
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/665699276?h=40f56ac2f0" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
-
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/665699276?h=40f56ac2f0&autoplay=1&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ![](/content/images/screenshot-2021-12-14-at-13-45-21.png)![](/content/images/screenshot-2021-12-14-at-13-45-30.png)![](/content/images/screenshot-2021-12-14-at-13-45-36.png)![](/content/images/screenshot-2021-12-14-at-13-45-42.png)![](/content/images/screenshot-2021-12-14-at-13-45-49.png)
