@@ -8,7 +8,7 @@ gallery:
 - "/content/images/screenshot-2021-12-13-at-12-59-13.jpeg"
 - "/content/images/screenshot-2021-12-13-at-12-58-38.jpeg"
 - "/content/images/screenshot-2021-12-13-at-12-58-09.jpeg"
-- '/content/images/screenshot 2023-07-19 at 15.16.46.jpg"
+- "/content/images/screenshot 2023-07-19 at 15.16.46.jpg"
 - "/content/images/p1066184.jpeg"
 
 ---
